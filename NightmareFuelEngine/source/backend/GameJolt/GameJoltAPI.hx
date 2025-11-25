@@ -1,0 +1,1 @@
+// GameJolt API stub

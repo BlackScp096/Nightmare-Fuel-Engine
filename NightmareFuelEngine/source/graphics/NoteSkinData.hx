@@ -1,0 +1,1 @@
+// Note skin data stub

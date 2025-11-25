@@ -1,0 +1,1 @@
+// HScript handler stub
