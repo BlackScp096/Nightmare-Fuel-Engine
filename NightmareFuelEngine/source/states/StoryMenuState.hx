@@ -1,1 +1,0 @@
-// Story menu state stub

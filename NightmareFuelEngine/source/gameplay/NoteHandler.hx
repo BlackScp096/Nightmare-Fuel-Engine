@@ -1,1 +1,0 @@
-// Note handler stub with ghost tap placeholder

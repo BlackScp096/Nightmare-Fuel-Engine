@@ -1,1 +1,0 @@
-// Credits state stub
