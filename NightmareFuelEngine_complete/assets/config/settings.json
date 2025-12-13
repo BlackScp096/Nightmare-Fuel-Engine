@@ -1,0 +1,109 @@
+{
+  "graphics": {
+    "quality": {
+      "value": "high",
+      "options": [
+        "ass",
+        "low",
+        "medium",
+        "high",
+        "epic",
+        "ultra"
+      ]
+    },
+    "fps_cap": {
+      "value": 60,
+      "min": 60,
+      "max": 240,
+      "step": 1
+    },
+    "vsync": false,
+    "anti_aliasing": true,
+    "flashing_lights": true
+  },
+  "gameplay": {
+    "downscroll": false,
+    "middlescroll": false,
+    "ghost_tapping": true,
+    "opponent_notes": true,
+    "mechanics_enabled": true,
+    "disable_reset_button": false,
+    "safe_frames": {
+      "value": 10,
+      "min": 2,
+      "max": 10,
+      "step": 1
+    },
+    "combo_popup": true,
+    "healthbar_transparency": {
+      "value": 100,
+      "min": 0,
+      "max": 100
+    },
+    "accuracy_mode": "default",
+    "botplay": false
+  },
+  "visuals": {
+    "note_splashes": true,
+    "camera_zooms": true,
+    "score_text_zoom": true,
+    "time_bar": {
+      "style": "time_left",
+      "types": [
+        "time_left",
+        "time_elapsed",
+        "song_position"
+      ]
+    }
+  },
+  "audio": {
+    "master_volume": 1.0,
+    "music_volume": 1.0,
+    "sfx_volume": 1.0,
+    "pause_screen_music": true,
+    "pause_song_mode": "auto",
+    "pause_song": "default",
+    "hitsound_volume": {
+      "value": 0,
+      "min": 0,
+      "max": 100
+    }
+  },
+  "ratings": {
+    "rating_offset": {
+      "value": 0,
+      "min": -50,
+      "max": 50
+    }
+  },
+  "ui": {
+    "fps_counter": true,
+    "miss_sfx": true,
+    "language": "en"
+  },
+  "controls": {
+    "controller_mode": false,
+    "up": [
+      "W",
+      "UP"
+    ],
+    "down": [
+      "S",
+      "DOWN"
+    ],
+    "left": [
+      "A",
+      "LEFT"
+    ],
+    "right": [
+      "D",
+      "RIGHT"
+    ],
+    "debug_chart_editor": "7",
+    "debug_character_editor": "8"
+  },
+  "engine_settings": {
+    "autosave": true,
+    "show_performance_memory": true
+  }
+}

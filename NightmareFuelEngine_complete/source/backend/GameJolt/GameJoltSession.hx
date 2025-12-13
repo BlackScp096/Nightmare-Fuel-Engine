@@ -1,0 +1,1 @@
+// GameJolt session stub

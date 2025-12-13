@@ -1,0 +1,28 @@
+{
+  "disclaimer": {
+    "title": "Content & Responsibility Disclaimer",
+
+    "fan_engine": true,
+
+    "no_affiliation_statement": "Nightmare Fuel Engine is a fan-made engine and is not affiliated with the original Friday Night Funkin' developers or any third-party mod creators.",
+
+    "mod_responsibility": "All mods are created and distributed by third parties. Nightmare Fuel Engine does not review, control, or take responsibility for user-created mods.",
+
+    "prohibited_content": [
+      "NSFW or explicit content",
+      "Hate, harassment, or extremist material",
+      "Malware, viruses, or harmful software",
+      "Content intended to harm users or devices"
+    ],
+
+    "engine_position": "Nightmare Fuel Engine does not support, endorse, or associate with creators or content that fall under the prohibited categories listed above.",
+
+    "user_notice": "By using this engine, you acknowledge that third-party mods may vary in quality and content, and responsibility lies with the respective creators.",
+
+    "display": {
+      "show_on_first_launch": true,
+      "show_in_settings": true,
+      "show_in_credits": true
+    }
+  }
+}

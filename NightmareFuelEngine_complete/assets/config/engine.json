@@ -1,0 +1,67 @@
+{
+  "engine": {
+    "name": "Nightmare Fuel Engine",
+    "subtitle": "BlackScp096 Engine",
+    "version": "0.1.0-prebuild",
+    "based_on": "Psych Engine",
+    "based_on_version": "1.0.4",
+    "author": "BlackScp096",
+    "license": "MIT",
+    "github": "https://github.com/BlackScp096/Nightmare-Fuel-Engine"
+  },
+
+  "startup": {
+    "show_splash": true,
+    "show_warning_on_rule_break": true,
+    "scan_for_inappropriate_content": true,
+    "load_last_mod": true
+  },
+
+  "compatibility": {
+    "psych_mods": true,
+    "allowed_keys": 4,
+    "lua_support": true,
+    "hscript_support": true,
+    "json_support": true
+  },
+
+  "features": {
+    "mp4_cutscenes": true,
+    "unskippable_videos": true,
+    "custom_note_types": true,
+    "custom_note_skins": true,
+    "warp_notes": true,
+    "ghost_tapping": true,
+    "mods_folder": true,
+    "editable_credits": true,
+    "gamejolt_trophies_only": true
+  },
+
+  "gameplay": {
+    "keys": 4,
+    "downscroll_supported": true,
+    "middlescroll_supported": true,
+    "ghost_tapping_supported": true,
+    "rating_types_supported": [
+      "psych",
+      "kade",
+      "codename",
+      "vanilla",
+      "forever",
+      "nightmare_fuel"
+    ]
+  },
+
+  "logging": {
+    "enable_gamelogs": true,
+    "enable_crashlogs": true,
+    "log_folder": "logs/",
+    "crash_folder": "crashlogs/"
+  },
+
+  "rules": {
+    "nsfw_prohibited": true,
+    "show_warning_instead_of_block": true,
+    "developer_not_responsible": true
+  }
+}

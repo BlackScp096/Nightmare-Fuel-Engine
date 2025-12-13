@@ -1,0 +1,46 @@
+{
+    "note_left": [
+        "LEFT"
+    ],
+    "note_down": [
+        "DOWN"
+    ],
+    "note_up": [
+        "UP"
+    ],
+    "note_right": [
+        "RIGHT"
+    ],
+    "ui_left": [
+        "A"
+    ],
+    "ui_down": [
+        "S"
+    ],
+    "ui_up": [
+        "W"
+    ],
+    "ui_right": [
+        "D"
+    ],
+    "accept": [
+        "ENTER"
+    ],
+    "back": [
+        "ESCAPE"
+    ],
+    "pause": [
+        "ENTER"
+    ],
+    "reset": [
+        "R"
+    ],
+    "volume_up": [
+        "PLUS",
+        "EQUALS"
+    ],
+    "volume_down": [
+        "MINUS",
+        "UNDERSCORE"
+    ]
+}

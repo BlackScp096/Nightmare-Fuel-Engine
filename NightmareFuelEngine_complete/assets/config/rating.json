@@ -1,0 +1,65 @@
+{
+  "use_epic_rating_toggle": true,
+  "psych_format": {
+    "ratings": [
+      {
+        "name": "sick",
+        "hitWindow": 45,
+        "score": 350,
+        "accuracy": 1.0
+      },
+      {
+        "name": "good",
+        "hitWindow": 90,
+        "score": 200,
+        "accuracy": 0.75
+      },
+      {
+        "name": "bad",
+        "hitWindow": 135,
+        "score": 100,
+        "accuracy": 0.4
+      },
+      {
+        "name": "shit",
+        "hitWindow": 180,
+        "score": 50,
+        "accuracy": 0.1
+      }
+    ]
+  },
+  "epic_format": {
+    "ratings": [
+      {
+        "name": "epic",
+        "hitWindow": 25,
+        "score": 500,
+        "accuracy": 1.05
+      },
+      {
+        "name": "sick",
+        "hitWindow": 45,
+        "score": 350,
+        "accuracy": 1.0
+      },
+      {
+        "name": "good",
+        "hitWindow": 90,
+        "score": 200,
+        "accuracy": 0.75
+      },
+      {
+        "name": "bad",
+        "hitWindow": 135,
+        "score": 100,
+        "accuracy": 0.4
+      },
+      {
+        "name": "shit",
+        "hitWindow": 180,
+        "score": 50,
+        "accuracy": 0.1
+      }
+    ]
+  }
+}

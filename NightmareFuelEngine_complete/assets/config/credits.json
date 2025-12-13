@@ -1,0 +1,72 @@
+{
+  "engine": {
+    "title": "Nightmare Fuel Engine",
+    "subtitle": "BlackScp096 Engine",
+    "version": "0.1.0-prebuild"
+  },
+
+  "sections": [
+    {
+      "name": "Engine Creator",
+      "members": [
+        {
+          "name": "BlackScp096",
+          "role": "Engine Creator / Lead Developer",
+          "description": "Creator of Nightmare Fuel Engine",
+          "links": {
+            "youtube": "https://www.youtube.com/@BlackScp096",
+            "gamejolt": "https://gamejolt.com/@BlackScp096",
+            "roblox": "https://www.roblox.com/users/1247039588/profile",
+            "github": "https://github.com/BlackScp096"
+          }
+        }
+      ]
+    },
+
+    {
+      "name": "Engine Helpers",
+      "members": [
+        {
+          "name": "Add Your Name",
+          "role": "Contributor",
+          "description": "Helped with code, art, or testing",
+          "links": {}
+        }
+      ]
+    },
+
+    {
+      "name": "Based On",
+      "members": [
+        {
+          "name": "Psych Engine Team",
+          "role": "Base Engine",
+          "description": "Nightmare Fuel Engine is built on Psych Engine",
+          "links": {
+            "github": "https://github.com/ShadowMario/FNF-PsychEngine"
+          }
+        },
+        {
+          "name": "Friday Night Funkin’",
+          "role": "Original Game",
+          "description": "Original game by the FNF dev team",
+          "links": {
+            "website": "https://ninja-muffin24.itch.io/funkin"
+          }
+        }
+      ]
+    },
+
+    {
+      "name": "Special Thanks",
+      "members": [
+        {
+          "name": "FNF Modding Community",
+          "role": "Community",
+          "description": "For inspiration, mods, and support",
+          "links": {}
+        }
+      ]
+    }
+  ]
+}
