@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<project>
-    <meta title="Nightmare Fuel Engine" package="com.blackscp096.nfe" version="1.0.0" company="BlackScp096" />
-    <window width="1280" height="720" if="desktop" title="Nightmare Fuel Engine" />
-    <app main="Main" file="NightmareFuelEngine" path="export" />
-</project>

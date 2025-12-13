@@ -1,1 +1,0 @@
-package scripting; class LuaHandler { }
